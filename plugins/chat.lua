@@ -1,51 +1,21 @@
 local function run(msg)
-if msg.text == "hi" then
-	return "Hello bb"
+if msg.text == "سلام" then
+	return "سلام خوشگل"
 end
-if msg.text == "Hi" then
-	return "Hello honey"
+if msg.text == "خوبی؟" then
+	return "مرسی تو خوبی؟"
 end
-if msg.text == "Hello" then
-	return "Hi bb"
+if msg.text == "کیرم دهن سازندت" then
+	return "کیرش تو کس ننت"
 end
-if msg.text == "hello" then
-	return "Hi honey"
+if msg.text == "این چی میگه پسرم؟" then
+	return "کس میگه بابایی"
 end
-if msg.text == "Salam" then
-	return "Salam aleykom"
+if msg.text == "کس ننت" then
+	return "کیر آقام دست ننت"
 end
-if msg.text == "salam" then
-	return "va aleykol asalam"
-end
-if msg.text == "zac" then
-	return "Barash bezan sak"
-end
-if msg.text == "Zac" then
-	return "Barash bezan sak"
-end
-if msg.text == "ZAC" then
-	return "Barash bezan sak"
-end
-if msg.text == "Umbrella" then
-	return "Yes?"
-end
-if msg.text == "umbrella" then
-	return "What?"
-end
-if msg.text == "bot" then
-	return "hum?"
-end
-if msg.text == "Bot" then
-	return "Huuuum?"
-end
-if msg.text == "?" then
-	return "Hum??"
-end
-if msg.text == "Bye" then
-	return "Babay"
-end
-if msg.text == "bye" then
-	return "Bye Bye"
+if msg.text == "مادر جنده" then
+	return "بسیک شل ناموس"
 end
 end
 
