@@ -248,8 +248,8 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-avira pro bot for manage group on new teachnology
-sudo: @king_of_ranger
+tele dam pro bot for manage group on new teachnology
+sudo: @Xxbye_ettehadxX
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -314,7 +314,7 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @Nod32team
+
 
 ]],
     help_text = [[
