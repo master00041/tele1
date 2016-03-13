@@ -244,7 +244,8 @@ function create_config( )
     "time",
     "version",
     "welcome",
-    "echo"
+    "echo",
+    "chat"
     },
 	    sudo_users = {104583328},--Sudo users
     disabled_channels = {},
